@@ -1,4 +1,9 @@
-### Hi there 👋
+# Página web de Eduardo Galindo Martinez 👋
+## Esta página web funciona con Jekyll
+### Pasos para intalar de manera local
+
+Para poder utilizar esta 
+
 
 <!--
 **egalindomar/egalindomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
