@@ -3,4 +3,4 @@ title: "About"
 layout: about
 ---
 
-Página web con tutoriales y noticias sobre tecnológia
+Blog personal sobre cosas que me gustan y me interesan / Personal blog about things that I like and care about

@@ -20,8 +20,7 @@
 
 title: Edu- Blog
 email: egalindomar@pm.me
-description: >- # this means to ignore newlines until "baseurl:"
-  Blog personal sobre cosas que me gustan y me interesan / Personal blog about things that I like and care about.
+description: Blog personal sobre cosas que me gustan y me interesan / Personal blog about things that I like and care about.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pro.egalindomar.codes" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SaintY37
@@ -35,7 +34,7 @@ disqus:
 # Build settings
 # theme: jekyll-theme-basically-basic
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
-skin: sea
+
 plugins:
   - jekyll-feed
 paginate: 5
@@ -49,12 +48,12 @@ defaults:
       layout: post
       read_time: true
   # _recipes
-  - scope:
-      path: "_recipes"
-      type: recipes
-    values:
-      layout: post
-      read_time: true
+  # - scope:
+  #     path: "_recipes"
+  #     type: recipes
+  #   values:
+  #     layout: post
+  #     read_time: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
