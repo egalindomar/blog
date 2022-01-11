@@ -4,19 +4,14 @@
     "label": "Programmer",
     "picture": "",
     "email": "egalindomar@pme.me",
-    "phone": "(111) 111-1111 ",
     "website": "http://pro.egalindomar.codes",
     "summary": "A summary of Eduardo Galindo...",
     "location": {
-      "address": "A",
-      "postalCode": "22708",
       "email": "egalindomar@pm.me",
       "phone": "",
       "website": "http://pro.egalindomar.codes",
       "summary": "A summary of Eduardo Galindo...",
       "location": {
-        "address": "",
-        "postalCode": "",
         "city": "Playas de Rosarito",
         "countryCode": "MX",
         "region": "Baja California"
@@ -33,80 +28,60 @@
       {
         "company": "Hisense",
         "position": "AMI",
-        "website": "http://company.com",
-        "startDate": "2021-01-01",
-        "endDate": "2014-01-01",
-        "summary": "Description...",
-        "highlights": [
-          "Started the company"
-        ]
-      }
-    ],
-    "volunteer": [
+        "website": "https://hisense.com",
+        "startDate": "2021-04-15",
+        "endDate": "2021-05-03",
+        "summary": "Assemble and test of televisions...."
+      },
       {
-        "organization": "Organization",
-        "position": "Volunteer",
-        "website": "http://organization.com/",
-        "startDate": "2012-01-01",
-        "endDate": "2013-01-01",
-        "summary": "Description...",
-        "highlights": [
-          "Awarded 'Volunteer of the Month'"
-        ]
+        "company": "Motiva CC",
+        "position": "Software Developer",
+        "website": "https://www.motivacc.com",
+        "startDate": "2021-05-03",
+        "summary": "Software Developer..."
       }
     ],
     "education": [
       {
-        "institution": "University",
-        "area": "Software Development",
+        "institution": "Tecnológico Nacional de México Campus Veracruz",
+        "area": "computerstystems engineer",
         "studyType": "Bachelor",
-        "startDate": "2011-01-01",
-        "endDate": "2013-01-01",
-        "gpa": "4.0",
+        "startDate": "2015-07-28",
+        "endDate": "2021-01-15",
         "courses": [
-          "DB1101 - Basic SQL"
+          "Other"
         ]
-      }
-    ],
-    "publications": [
-      {
-        "name": "Publication",
-        "publisher": "Company",
-        "releaseDate": "2014-10-01",
-        "website": "http://publication.com",
-        "summary": "Description..."
       }
     ],
     "skills": [
       {
         "name": "Web Development",
-        "level": "Master",
+        "level": "Jr",
         "keywords": [
-          "HTML",
-          "CSS",
-          "Javascript"
+          "PHP",
+          "SQL",
+          "Javascript",
+          "Laravel"
         ]
       }
     ],
     "languages": [
       {
         "language": "English",
-        "fluency": "Native speaker"
+        "fluency": "Medium"
+      },
+      {
+        "language": "Spanish",
+        "fluency": "Native Speaker"
       }
     ],
     "interests": [
       {
-        "name": "Wildlife",
+        "name": "Cars",
         "keywords": [
-          "Ferrets",
-          "Unicorns"
+          "Sports",
+          "Truck"
         ]
-      }
-    ],
-    "references": [
-      {
-        "name": "Jane Doe",
-        "reference": "Reference..."
       }
     ]
   }
