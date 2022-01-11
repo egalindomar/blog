@@ -3,6 +3,7 @@
       "name": "Eduardo Galindo Martinez",
       "label": "Programmer",
       "picture": "",
+<<<<<<< HEAD
       "email": "egalindomar@pme.me",
       "phone": "(111) 111-1111 ",
       "website": "http://pro.egalindomar.codes",
@@ -10,6 +11,15 @@
       "location": {
         "address": "A",
         "postalCode": "22708",
+=======
+      "email": "egalindomar@pm.me",
+      "phone": "",
+      "website": "http://pro.egalindomar.codes",
+      "summary": "A summary of Eduardo Galindo...",
+      "location": {
+        "address": "",
+        "postalCode": "",
+>>>>>>> refs/remotes/origin/master
         "city": "Playas de Rosarito",
         "countryCode": "MX",
         "region": "Baja California"
@@ -24,7 +34,7 @@
       "company": "Hisense",
       "position": "AMI",
       "website": "http://company.com",
-      "startDate": "2013-01-01",
+      "startDate": "2021-01-01",
       "endDate": "2014-01-01",
       "summary": "Description...",
       "highlights": [
