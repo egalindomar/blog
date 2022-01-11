@@ -33,7 +33,8 @@ disqus:
     shortname: eduardo-galindo-blog.disqus.com
 
 # Build settings
-theme: jekyll-theme-basically-basic
+# theme: jekyll-theme-basically-basic
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
 paginate: 5
