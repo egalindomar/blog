@@ -24,6 +24,7 @@ description: Blog personal sobre cosas que me gustan y me interesan / Personal b
 baseurl: "/egalindomar" # the subpath of your site, e.g. /blog
 url: "localhost:8080" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SaintY37
+logo: /assets/icons/logo.svg
 github_username:  egalindomar
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 google_analytics: G-EWVW1Y2W3H
@@ -40,6 +41,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-seo-tag
 paginate: 5
 
 defaults:
