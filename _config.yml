@@ -22,7 +22,7 @@ title: Edu- Blog
 email: egalindomar@pm.me
 description: Blog personal sobre cosas que me gustan y me interesan / Personal blog about things that I like and care about.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://egalindomar.github.io/egalindomar/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://egalindomar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SaintY37
 github_username:  egalindomar
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
