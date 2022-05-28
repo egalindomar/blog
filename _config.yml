@@ -21,7 +21,7 @@
 title: Edu- Blog
 email: egalindomar@pm.me
 description: Blog personal sobre cosas que me gustan y me interesan / Personal blog about things that I like and care about.
-baseurl: "/egalindomar" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "localhost:8080" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SaintY37
 logo: /assets/icons/logo.svg
