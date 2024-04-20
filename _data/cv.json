@@ -26,19 +26,19 @@
     }},
     "work": [
       {
-        "company": "Hisense",
-        "position": "AMI",
-        "website": "https://hisense.com",
-        "startDate": "2021-04-15",
-        "endDate": "2021-05-03",
-        "summary": "Assemble and test of televisions...."
-      },
-      {
         "company": "Motiva CC",
         "position": "Software Developer",
         "website": "https://www.motivacc.com",
         "startDate": "2021-05-03",
-        "summary": "Software Developer..."
+        "endDate": "2023-05-03",
+        "summary": "Software Developer"
+      },
+      {
+        "company": "ENERFUELTCH",
+        "position": "Software Developer",
+        "website": "https://www.enerser.com",
+        "startDate": "2023-07-28",
+        "summary": "Software Developer"
       }
     ],
     "education": [
