@@ -1,5 +1,5 @@
 # Theme Skin
-skin: sea # default, night, plum, sea, soft, steel
+skin: steel # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
@@ -26,7 +26,9 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "Fira Sans"
+  #- name: "Fira Sans"
+  - name: "Roboto"
+
     weights: "400,400i,600,600i"
 
 # Link to specific internal pages in the navigation.
