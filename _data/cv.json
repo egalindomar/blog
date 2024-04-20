@@ -18,9 +18,9 @@
       },
       "profiles": [
         {
-          "network": "Twitter",
-          "username": "Eduardo",
-          "url": "http://twitter.com/egamar19"
+          "network": "Threads",
+          "username": "@egalindoma",
+          "url": "https://www.threads.net/"
         }
       ]
     }},
@@ -36,8 +36,9 @@
       {
         "company": "ENERFUELTCH",
         "position": "Software Developer",
-        "website": "https://www.enerser.com",
+        "website": "https://enerser.mx/",
         "startDate": "2023-07-28",
+        "endDate": "NOW",
         "summary": "Software Developer"
       }
     ],

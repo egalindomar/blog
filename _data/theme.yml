@@ -27,7 +27,9 @@ t:
 # Google Fonts
 google_fonts:
   #- name: "Fira Sans"
-  - name: "Roboto"
+  - name: "IBM Plex Sans"
+  #- name: "Roboto"
+
 
     weights: "400,400i,600,600i"
 
