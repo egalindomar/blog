@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Edu- Blog
+title: Another Blog More
 email: egalindomar@pm.me
-description: Blog personal sobre cosas que me gustan y me interesan / Personal blog about things that I like and care about.
+description: Personal blog about things that I like and care about.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "localhost:8080" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SaintY37
+twitter_username: egalindomar
 logo: /assets/icons/logo.svg
 github_username:  egalindomar
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
-google_analytics: G-EWVW1Y2W3H
+#google_analytics: G-EWVW1Y2W3H
 
 disqus:
     shortname: eduardo-galindo-blog-1.disqus.com
