@@ -32,8 +32,10 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jekyll-paginate
-  paginate: 5
+  - jekyll-seo-tag
+paginate: 5
 
 defaults:
   - scope:
