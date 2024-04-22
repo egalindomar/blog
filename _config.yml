@@ -23,11 +23,10 @@ email: egalindomar@pm.me
 description: Personal blog about things that I like and care about.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "localhost:8080" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: egalindomar
+#twitter_username: egalindomar
 logo: /assets/icons/logo.svg
 github_username:  egalindomar
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
-
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 
 plugins:
